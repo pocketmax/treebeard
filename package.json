@@ -1,0 +1,26 @@
+{
+  "name": "treebeard",
+  "version": "1.0.0",
+  "description": "light weight tree store",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketmax/treebeard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pocketmax/treebeard/issues"
+  },
+  "homepage": "https://github.com/pocketmax/treebeard",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "requirejs": "^2.1.17"
+  }
+}
