@@ -21,6 +21,7 @@
   "homepage": "https://github.com/pocketmax/treebeard",
   "dependencies": {
     "mocha": "^2.2.5",
+    "observed": "^1.1.1",
     "requirejs": "^2.1.17"
   }
 }
